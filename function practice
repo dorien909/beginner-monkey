@@ -25,11 +25,11 @@ weight_kg1 = 90
 
 name2 = "Scarlet"
 height_m2 = .75
-weight_kg2 = 15
+weight_kg2 = 12
 
 name3 = "Dorian"
 height_m3 = .50
-weight_kg3 = 7
+weight_kg3 = 5
 
 
 def bmi_calculator(name, height_m, weight_kg):
